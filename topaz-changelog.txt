@@ -1,0 +1,17 @@
+  Redmi Note 12 4G | Derpfest Unnoficial  
+            Changelog OTA Update
+=========≠==================================
+• topaz: OTA was successful
+• topaz: Transparency set to 100% in QS
+• topaz: Blur removed
+• topaz: Visual SMS Fixed
+• topaz: improve SMS reception accuracy
+• topaz: Experimental camera performance improvements
+• topaz: Optimize performance for 60Hz and power-saving modes
+• topaz: overlay: Switch to vendor-defined color modes
+• topaz: overlay: Switch to min_refresh_rate setting
+• topaz: Set maximum screen brightness to 1000 nits
+• topaz: Set NUM_FRAMEBUFFER_SURFACE_BUFFERS
+• topaz: overlay: Tune up status bar padding
+• topaz: Add props for variable refresh rate
+• topaz: Configure screen density
