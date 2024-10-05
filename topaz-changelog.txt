@@ -1,6 +1,6 @@
   Redmi Note 12 4G | Derpfest Unnoficial  
        Changelog OTA Update Release 2
-=========≠==================================
+=========≠=================================
 Derpfest Changes:
 • derpfest: Reverted to the old UI
 • derpfest: Added DerpFest Launcher
