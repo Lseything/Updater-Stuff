@@ -1,17 +1,25 @@
   Redmi Note 12 4G | Derpfest Unnoficial  
-            Changelog OTA Update
+       Changelog OTA Update Release 2
 =========≠==================================
-• topaz: OTA was successful
-• topaz: Transparency set to 100% in QS
-• topaz: Blur removed
-• topaz: Visual SMS Fixed
-• topaz: improve SMS reception accuracy
-• topaz: Experimental camera performance improvements
-• topaz: Optimize performance for 60Hz and power-saving modes
-• topaz: overlay: Switch to vendor-defined color modes
-• topaz: overlay: Switch to min_refresh_rate setting
-• topaz: Set maximum screen brightness to 1000 nits
-• topaz: Set NUM_FRAMEBUFFER_SURFACE_BUFFERS
-• topaz: overlay: Tune up status bar padding
-• topaz: Add props for variable refresh rate
-• topaz: Configure screen density
+Derpfest Changes:
+
+• derpfest: Improved UI speed
+• derpfest: Reverted to the old UI
+• derpfest: Added DerpFest Launcher
+• derpfest: Standard Android features and some simple customizations added
+
+
+Alex Changes:
+
+• topaz: CTS passes by default
+• topaz: Battery life improvements 60hz-120hz
+• topaz: Improvements at 60Hz [WIP]
+• topaz: Reduced lag in QS [WIP]
+• topaz: Experimental changes for improved fluidity
+
+
+Known Issues:
+
+• derpfest: Visual bug in the fingerprint unlock indicator; it does not affect usage and is a source issue from DerpFest. Fix coming soon.
+
+• derpfest: Pure black mode still in [WIP]; wait for the next updates.
